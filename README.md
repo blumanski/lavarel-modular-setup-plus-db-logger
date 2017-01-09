@@ -14,3 +14,8 @@ app/Helpers/AppModel.php
 app/Providers/AppModelServiceProvider.php
 
 app/Facades/AppModel.php
+
+###It shows also how to use the databse in raw pdo mode###
+I don't like query building and rather have full controll, even the bindValues, I rather not cut corners and use the right types.
+
+Anyway...
